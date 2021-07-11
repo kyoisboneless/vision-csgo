@@ -6,6 +6,6 @@ imrovements:
 
 - Resolver
 - DT
-- leynomds indicators
+- keynomds indicators
 - Auto AA
 - etc.
