@@ -4,8 +4,9 @@
 
 imrovements:
 
+
 - Resolver
 - DT
 - keynomds indicators
-- Auto AA
+- Auto AA Directions
 - etc.
