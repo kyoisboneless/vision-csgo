@@ -7,6 +7,6 @@ imrovements:
 
 - Resolver
 - DT
-- keynomds indicators
+- keybinds indicators
 - Auto AA Directions
 - etc.
